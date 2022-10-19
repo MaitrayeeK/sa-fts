@@ -1,0 +1,25 @@
+{
+  "name": "superadmin_api_master",
+  "version": "1.0.0",
+  "description": "Apis for super admin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajfts/FTS-SuperAdmin.git"
+  },
+  "author": "Maitrayee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajfts/FTS-SuperAdmin/issues"
+  },
+  "homepage": "https://github.com/rajfts/FTS-SuperAdmin#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
